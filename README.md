@@ -1,4 +1,4 @@
-# Instacard-Python
+# Instacart-Python
 Python code for analyzing fictional Instacart data. Project part of CareerFoundry data analytics course.
 ## Objective
 Instacart is an online grocery stores that operates through an app. The objective of this project is to analyze variety of their customers and their purchasing behaviors to inform marketing campaign strategies and segmentation.
